@@ -13,4 +13,10 @@ This project automates testing of the [SauceDemo](https://www.saucedemo.com/v1/)
 - Maven (for project build)
 - ChromeDriver (for browser automation)
 
-  
+---
+
+## 📂 Folder Structure
+C:. ├── pom.xml ├── README.md ├── testng.xml ├── .settings/ ├── src/ │ └── test/ │ └── java/ │ └── reading_Data_From_Excel/ │ ├── BaseTest.java │ ├── CartOperationTest.java │ ├── CheckoutTest.java │ ├── ExcelData.java │ └── LoginTest.java ├── target/ │ └── test-classes/ ├── test-output/ │ ├── emailable-report.html │ ├── ExtentReport.html │ └── testng-results.xml
+
+
+

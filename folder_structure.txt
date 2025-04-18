@@ -1,0 +1,92 @@
+Folder PATH listing for volume Acer
+Volume serial number is 7807-4810
+C:.
+¦   .classpath
+¦   .project
+¦   folder_structure.txt
+¦   pom.xml
+¦   README.md
+¦   testng.xml
+¦   
++---.settings
+¦       org.eclipse.jdt.core.prefs
+¦       org.eclipse.m2e.core.prefs
+¦       
++---java
+¦   +---tpack
++---src
+¦   +---test
+¦       +---java
+¦           +---reading_Data_From_Excel
+¦                   BaseTest.java
+¦                   CartOperationTest.java
+¦                   CheckoutTest.java
+¦                   ExcelData.java
+¦                   LoginDetails1.xlsx
+¦                   LoginTest.java
+¦                   ProductFilterTest.java
+¦                   
++---target
+¦   +---classes
+¦   ¦   +---META-INF
+¦   ¦       ¦   MANIFEST.MF
+¦   ¦       ¦   
+¦   ¦       +---maven
+¦   ¦           +---com.saucedemo
+¦   ¦               +---SauceDemoAutomation
+¦   ¦                       pom.properties
+¦   ¦                       pom.xml
+¦   ¦                       
+¦   +---test-classes
+¦       +---reading_Data_From_Excel
+¦               BaseTest.class
+¦               CartOperationTest.class
+¦               CheckoutTest.class
+¦               ExcelData.class
+¦               LoginDetails1.xlsx
+¦               LoginTest.class
+¦               ProductFilterTest.class
+¦               
++---test-output
+    ¦   bullet_point.png
+    ¦   collapseall.gif
+    ¦   emailable-report.html
+    ¦   ExtentReport.html
+    ¦   failed.png
+    ¦   index.html
+    ¦   jquery-3.6.0.min.js
+    ¦   navigator-bullet.png
+    ¦   passed.png
+    ¦   skipped.png
+    ¦   testng-failed.xml
+    ¦   testng-reports.css
+    ¦   testng-reports.js
+    ¦   testng-reports1.css
+    ¦   testng-reports2.js
+    ¦   testng-results.xml
+    ¦   
+    +---CheckoutTest
+    ¦       ExtentReport.html
+    ¦       
+    +---Default suite
+    ¦       Default test.html
+    ¦       Default test.xml
+    ¦       testng-failed.xml
+    ¦       
+    +---junitreports
+    ¦       TEST-reading_Data_From_Excel.CartOperationTest.xml
+    ¦       TEST-reading_Data_From_Excel.CheckoutTest.xml
+    ¦       TEST-reading_Data_From_Excel.LoginTest.xml
+    ¦       TEST-reading_Data_From_Excel.ProductFilterTest.xml
+    ¦       TEST-tests.LoginTest.xml
+    ¦       
+    +---SauceDemo Suite
+    ¦       All Tests.html
+    ¦       All Tests.xml
+    ¦       testng-failed.xml
+    ¦       
+    +---Suite
+            Test.html
+            Test.xml
+            testng-failed.xml
+            
